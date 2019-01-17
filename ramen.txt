@@ -1,0 +1,7 @@
+  
+  RAMEN:
+
+   take some ramen in utensil, 
+   put some water,
+   heat it, 
+   eat it.
